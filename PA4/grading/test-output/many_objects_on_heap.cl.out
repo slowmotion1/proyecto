@@ -1,0 +1,4 @@
+file '/usr/class/cc4/cool/assignments/PA4/grading/.tmp.s' has errors
+Jupiter: (error) asm::375:9: label: 'object.copy' used but not defined
+ >   jal   object.copy
+           ^

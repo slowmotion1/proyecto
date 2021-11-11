@@ -1,0 +1,15 @@
+1,2c1,9
+< 2
+< COOL program successfully executed
+\ No newline at end of file
+---
+> java.lang.NullPointerException
+> 	at CgenClassTable.code(CgenClassTable.java:527)
+> 	at CgenClassTable.<init>(CgenClassTable.java:424)
+> 	at program.cgen(cool-tree.java:342)
+> 	at Cgen.main(Cgen.java:59)
+> file '/usr/class/cc4/cool/assignments/PA4/grading/.tmp.s' has errors
+> Jupiter: (error) asm::4:11: 'Main_protObj' declared global but not defined
+>  >   .globl  Main_protObj
+>              ^
+\ No newline at end of file

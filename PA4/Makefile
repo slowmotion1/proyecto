@@ -1,5 +1,5 @@
 ##############################
-#    PA4 RISC-V Version     #
+#    PA5J RISC-V Version     #
 ##############################
 
 # useful assignment variables

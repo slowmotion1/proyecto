@@ -1,0 +1,16 @@
+java.lang.ClassCastException: class StringSymbol cannot be cast to class IntSymbol (StringSymbol and IntSymbol are in unnamed module of loader 'app')
+	at let.code(cool-tree.java:1216)
+	at let.code(cool-tree.java:1231)
+	at let.code(cool-tree.java:1231)
+	at block.code(cool-tree.java:1142)
+	at CgenClassTable.printMethods(CgenClassTable.java:667)
+	at CgenClassTable.printMethods(CgenClassTable.java:676)
+	at CgenClassTable.printMethods(CgenClassTable.java:676)
+	at CgenClassTable.code(CgenClassTable.java:575)
+	at CgenClassTable.<init>(CgenClassTable.java:424)
+	at program.cgen(cool-tree.java:342)
+	at Cgen.main(Cgen.java:59)
+file '/usr/class/cc4/cool/assignments/PA4/grading/.tmp.s' has errors
+Jupiter: (error) asm::372:12: label: 'bool_constant0' used but not defined
+ >   la    a0 bool_constant0
+              ^

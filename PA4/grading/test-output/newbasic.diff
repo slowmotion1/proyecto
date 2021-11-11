@@ -1,0 +1,9 @@
+1,4c1
+< Bool
+< 1
+< String
+< COOL program successfully executed
+\ No newline at end of file
+---
+> Jupiter: (error) attempting to write to an invalid memory address 0x0000000c
+\ No newline at end of file

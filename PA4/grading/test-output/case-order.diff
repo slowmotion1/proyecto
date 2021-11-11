@@ -1,0 +1,7 @@
+1,2c1
+< main
+< COOL program successfully executed
+\ No newline at end of file
+---
+> Jupiter: (error) attempting to write to an invalid memory address 0x00000005
+\ No newline at end of file

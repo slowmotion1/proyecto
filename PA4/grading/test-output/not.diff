@@ -1,0 +1,9 @@
+1c1,4
+< COOL program successfully executed
+\ No newline at end of file
+---
+> file '/usr/class/cc4/cool/assignments/PA4/grading/.tmp.s' has errors
+> Jupiter: (error) asm::362:12: label: 'bool_constant0' used but not defined
+>  >   la    a0 bool_constant0
+>               ^
+\ No newline at end of file

@@ -1,0 +1,9 @@
+1c1,4
+< grading/dispatchvoidlet.cl:1: Dispatch to void.
+\ No newline at end of file
+---
+> file '/usr/class/cc4/cool/assignments/PA4/grading/.tmp.s' has errors
+> Jupiter: (error) asm::369:12: (syntax) unexpected input '0'
+>  >   mv    a0 0
+>               ^
+\ No newline at end of file

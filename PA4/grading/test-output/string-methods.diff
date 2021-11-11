@@ -1,0 +1,9 @@
+1,4c1
+< 9
+< this is a string
+< is
+< COOL program successfully executed
+\ No newline at end of file
+---
+> Jupiter: (error) attempting to write to an invalid memory address 0x0000000d
+\ No newline at end of file

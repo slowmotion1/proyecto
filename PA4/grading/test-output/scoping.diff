@@ -1,0 +1,10 @@
+1,4c1,2
+< z = 23
+< z = 29
+< z = 33
+< COOL program successfully executed
+\ No newline at end of file
+---
+> z = 
+> Jupiter: (error) attempting to write to an invalid memory address 0x00000012
+\ No newline at end of file

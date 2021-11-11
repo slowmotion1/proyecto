@@ -1,0 +1,6 @@
+1c1
+< grading/dispatch-void-dynamic.cl:1: Dispatch to void.
+\ No newline at end of file
+---
+> Jupiter: (error) attempting to write to an invalid memory address 0x00000000
+\ No newline at end of file

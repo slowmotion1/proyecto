@@ -1,0 +1,7 @@
+file '/usr/class/cc4/cool/assignments/PA4/grading/.tmp.s' has errors
+Jupiter: (error) asm::477:11: (syntax) unexpected input '3'
+ > sll t2 t2 3
+             ^
+Jupiter: (error) asm::520:12: (syntax) unexpected input '0'
+ >   mv    a0 0
+              ^

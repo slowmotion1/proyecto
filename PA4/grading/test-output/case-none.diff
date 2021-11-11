@@ -1,0 +1,6 @@
+1c1
+< No match in case statement for Class Main
+\ No newline at end of file
+---
+> Jupiter: (error) attempting to write to an invalid memory address 0x00000005
+\ No newline at end of file

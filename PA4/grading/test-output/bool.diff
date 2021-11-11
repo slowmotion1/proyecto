@@ -1,0 +1,14 @@
+1,6c1,4
+< t: Bool
+< b1: Bool
+< b2: Bool
+< b1: Bool
+< b2: Bool
+< COOL program successfully executed
+\ No newline at end of file
+---
+> file '/usr/class/cc4/cool/assignments/PA4/grading/.tmp.s' has errors
+> Jupiter: (error) asm::401:12: (syntax) unexpected input '0'
+>  >   mv    a0 0
+>               ^
+\ No newline at end of file
